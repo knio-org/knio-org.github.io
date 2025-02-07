@@ -1,0 +1,18 @@
+main:
+  - title: Releases
+    url: /releases/
+  - title: Quick Start Guide
+    url: /quick-start-guide/
+
+docs:
+  - title: Documentation
+    children:
+      - title: "Quick Start Guide"
+        url: /quick-start-guide/
+      - title: "Kdocs"
+        url: /build/main/kdoc/
+
+  - title: News
+    children:
+      - title: "Releases"
+        url: /releases/

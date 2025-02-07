@@ -1,0 +1,40 @@
+# .jekyll-metadata: stores metadata about the site's build
+.jekyll-metadata
+
+# _site: the default output folder for Jekyll builds
+_site/
+
+# Logs
+*.log
+
+# Temporary files
+*.bak
+*.swp
+*.swo
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# Editor-specific files (VSCode, Sublime, etc.)
+.vscode/
+.idea/
+
+# Bundler config
+.bundle/
+
+# Jekyll dependency folder
+vendor/
+
+# Ruby version manager files
+.ruby-version
+.ruby-gemset
+
+# Node.js modules (if you're using npm/yarn for frontend dependencies)
+node_modules/
+
+# Build artifacts (e.g., when using webpack or other tools)
+npm-debug.log
+yarn-error.log

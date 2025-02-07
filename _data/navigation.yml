@@ -10,7 +10,7 @@ docs:
       - title: "Quick Start Guide"
         url: /quick-start-guide/
       - title: "Kdocs"
-        url: /build/main/kdoc/
+        url: /knio-core/build/main/kdoc/
 
   - title: News
     children:

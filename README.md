@@ -29,8 +29,6 @@ bundle exec jekyll serve
    |-- _pages       # Pages
    |-- _posts       # Posts (News / Releases / etc.)
    |-- assets       # Assets (images, css, js, etc.)
-   |-- build        # Build artifacts
-   |-- release      # Release artifacts
    
    # Files
    |-- _config.yml  # Jekyll configuration

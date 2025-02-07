@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/paper_banner.jpg
   actions:
     - label: "GitHub"
-      url: "https://github.com/isaiah-v/Knio"
+      url: "https://github.com/knio-org/knio-core"
 excerpt: "From files to sockets, a true non-blocking I/O library built with Kotlin Coroutines and NIO — offering an efficient, readable, and user-friendly `java.io`-like API."
 
 feature_row:
